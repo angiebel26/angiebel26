@@ -109,9 +109,21 @@ Sistema de gestión de tareas.
 ---
 ## 🚀 Nivel de Tecnologías
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
+## 💻 Habilidades Técnicas
+
+```text
+HTML         ██████████  90%
+CSS          █████████░  85%
+JavaScript   ████████░░  80%
+Bootstrap    ████████░░  80%
+MySQL        ███████░░░  70%
+Git/GitHub   ███████░░░  70%
+MongoDB      ██████░░░░  60%
+Java         █████░░░░░  50%
+PHP          ████░░░░░░  40%
+Spring Boot  ███░░░░░░░  35%
+Python       ███░░░░░░░  30%
+```
 
 ---
 
