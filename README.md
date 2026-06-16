@@ -1,7 +1,7 @@
 # 👋 Hola, soy Angie Beltran
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=950&lines=Hola,+soy+Angie+Beltran+👋;Desarrolladora+Frontend;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Diseñando+experiencias+web+modernas;Tecnóloga+en+Análisis+y+Desarrollo+de+Software;Explorando+Java+y+Spring+Boot+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=950&lines=Desarrolladora+Frontend;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Diseñando+experiencias+web+modernas;Tecnóloga+en+Análisis+y+Desarrollo+de+Software;Explorando+Java+y+Spring+Boot+🚀">
 </p>
 
 
