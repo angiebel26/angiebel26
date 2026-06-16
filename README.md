@@ -107,10 +107,20 @@ Sistema de gestión de tareas.
 ✔ Seguimiento de actividades
 
 ---
+## 🚀 Nivel de Tecnologías
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_REAL&theme=tokyo-night&hide_border=true" />
-</p>
+```text
+HTML         ██████████  90%
+CSS          █████████░  85%
+JavaScript   ████████░░  80%
+Bootstrap    ████████░░  80%
+MySQL        ████████░░  75%
+PHP          ███████░░░  60%
+MongoDB      ██████░░░░  58%
+Java         █████░░░░░  55%
+Spring Boot  ████░░░░░░  45%
+Python       ████░░░░░░  40%
+```
 
 ---
 
