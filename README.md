@@ -1,11 +1,12 @@
 # 👋 Hola, soy Angie Beltran
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Hola,+soy+Angie+Beltran+👋;Desarrolladora+Full+Stack;Java+%7C+Spring+Boot;HTML+%7C+CSS+%7C+JavaScript;SQL+%7C+MongoDB;Construyendo+soluciones+tecnológicas+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=950&lines=Hola,+soy+Angie+Beltran+👋;Desarrolladora+Frontend;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Diseñando+experiencias+web+modernas;Tecnóloga+en+Análisis+y+Desarrollo+de+Software;Explorando+Java+y+Spring+Boot+🚀">
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="contador visitas" />
+  <img src="https://komarev.com/ghpvc/?username=AngieBeltran&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="contador visitas" />
 </p>
 
 ---
@@ -16,22 +17,29 @@
 
 💻 Desarrolladora Full Stack apasionada por el desarrollo web, bases de datos y la construcción de soluciones tecnológicas.
 
-🌱 Actualmente fortaleciendo mis conocimientos en:
+📔 Tecnologías con las que trabajo:
+HTML
+CSS
+JavaScript
+Bootstrap
+PHP
+SQL
+MySQL
+MongoDB
+Git y GitHub
 
-* Java
-* Spring Boot
-* APIs REST
-* SQL y MongoDB
-* Arquitectura de Software
-* Buenas prácticas de desarrollo
+📂 Actualmente fortaleciendo mis conocimientos en:
+Java
+Spring Boot
+APIs REST
+Arquitectura de Software
+Python
 
-📍 Bogotá, Colombia
-
-🚀 En búsqueda de oportunidades para seguir creciendo profesionalmente como desarrolladora.
+💼 En búsqueda de oportunidades para seguir creciendo profesionalmente y laboralmente como Frontend Developer
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 ### Frontend
 
@@ -69,8 +77,8 @@ Aplicación web para gestión de pedidos en restaurante.
 
 ✔ Menú interactivo
 ✔ Carrito de compras
-✔ Registro de pedidos
-✔ Generación de facturas
+✔ Registro de Productos
+✔ Generación de factura
 
 ---
 
@@ -78,7 +86,7 @@ Aplicación web para gestión de pedidos en restaurante.
 
 Sitio web interactivo para presentación de vehículos.
 
-**Tecnologías:** HTML, CSS y JavaScript.
+**Tecnologías:** C# HTML, CSS y JavaScript.
 
 ✔ Información de vehículos
 ✔ Galería multimedia
@@ -91,7 +99,7 @@ Sitio web interactivo para presentación de vehículos.
 
 Sistema de gestión de tareas.
 
-**Tecnologías:** C#, SQL Server y ASP.NET.
+**Tecnologías:** HTML,JavaScript y CSS.
 
 ✔ Crear tareas
 ✔ Editar tareas
@@ -111,7 +119,7 @@ Sistema de gestión de tareas.
 
 ## 🎯 Objetivos 2026
 
-✅ Conseguir una oportunidad como Desarrolladora Full Stack
+✅ Conseguir una oportunidad como Desarrolladora web Frontend y Backend
 
 ✅ Fortalecer Java y Spring Boot
 
@@ -125,9 +133,9 @@ Sistema de gestión de tareas.
 
 ## 📫 Contacto
 
-💼 LinkedIn: TU_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/angie-valeria-beltran-fronted-developer/
 
-🌐 Portafolio: TU_PORTAFOLIO
+🌐 Portafolio: https://portafolio-web-angie-beltran.vercel.app/
 
 📧 Correo: [angievaleriabeltranreyes4@gmail.com](mailto:angievaleriabeltranreyes4@gmail.com)
 
