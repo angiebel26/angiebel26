@@ -86,7 +86,7 @@ Aplicación web para gestión de pedidos en restaurante.
 
 Sitio web interactivo para presentación de vehículos.
 
-**Tecnologías:** C# HTML, CSS y JavaScript.
+**Tecnologías:** HTML, CSS y JavaScript.
 
 ✔ Información de vehículos
 ✔ Galería multimedia
